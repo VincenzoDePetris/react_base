@@ -1,0 +1,19 @@
+nav {
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  right: 0;
+  a {
+    text-decoration: none;
+    color: whitesmoke;
+  }
+  a:hover {
+    color: rgb(218, 218, 0);
+  }
+  .logo {
+    font-size: 2rem;
+  }
+  margin-bottom: 20px;
+  background-color: black;
+  padding: 20px;
+}

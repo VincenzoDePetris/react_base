@@ -1,3 +1,5 @@
+import "./Nav.css";
+
 function Nav() {
   return (
     <>
@@ -12,10 +14,10 @@ function Nav() {
               <a href="">HOME</a>
             </li>
             <li>
-              <a href="">INFO</a>
+              <a href="#footer">INFO</a>
             </li>
             <li>
-              <a href="">CONTACT</a>
+              <a href="#footer">CONTACT</a>
             </li>
           </ul>
         </div>
